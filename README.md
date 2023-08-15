@@ -5,6 +5,8 @@
 
 This code was created to to construct spatial interaction network using Gravity Model approach
 
+![Example Image](equation1.png)
+
 The main file can be found in this repository "Visualizing_3D_terrain_with_cloud_data.ipynb"
 Go to the Google colab file to preview the 3D interactive terrain visual
 
