@@ -9,8 +9,18 @@ Progses : In the current time, the production constrained, attraction constraine
 
 ![Example Image](equation1.png)
 
-The main file can be found in this repository "Visualizing_3D_terrain_with_cloud_data.ipynb"
-Go to the Google colab file to preview the 3D interactive terrain visual
+The main file can be found in this repository "GIScience_Gravity_model_spatial_interaction_network.ipynb" for a code
+
+Input :
+- Polygon Shapefile of administrative data which include attribute/column that define weight (Population attribute is the example)
+
+Output :
+- Point feature of administrative unit in shapefile point
+- Spatial interaction network in shapefile polyline
+- Mass-decay curve
+- Distance-decay curve
+- Attribute influence curve
+- Full statistic details of regression in table (as a print)
 
 Yes, you can use this code for any purpose like scientific research
 Yes, you can modify this code as save file
