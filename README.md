@@ -5,7 +5,7 @@
 
 This code was created to to construct spatial interaction network using Gravity Model approach. The specific gravity approach were used is the unconstrained gravity model or as known as clasical gravity model. 
 
-Progses : In the current time, the production constrained, attraction constrained, and production-attraction constrained gravity model were under developed
+Progses : In the current time, the production constrained, attraction constrained, and production-attraction constrained gravity model were under developed and will be updated to this repository.
 
 ![Example Image](equation1.png)
 
