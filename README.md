@@ -24,3 +24,7 @@ Output :
 
 Yes, you can use this code for any purpose like scientific research
 Yes, you can modify this code as save file
+
+
+Update 23/09/2023
+-Road network distance measure to define distance in spatial interaction network (optional approach)
